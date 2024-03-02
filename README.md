@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Elizaphan Maina from Nairobi,Kenya.<br><br>- 🔭 I’m working as Web and GIS developer<br>- 📚 I'm currently learning backend development using django.<br>- ⚡ In my free time I tutor</p>
+<p align="left">I'm Elizaphan Maina from Nairobi,Kenya.<br><br>- 🔭 I’m working as Web and GIS developer<br>- 📚 I'm currently learning backend development using django.<br>- ⚡ In my free time I tutor.</p>
 
 ###
 
