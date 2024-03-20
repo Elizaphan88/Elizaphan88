@@ -16,15 +16,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<p align="left">I'm Elizaphan Maina from Nairobi,Kenya.<br><br>- 🔭 I’m working as Web and GIS developer<br>- 📚 I'm currently learning backend development using django.<br>- ⚡ In my free time I tutor.</p>
+<h3 align="left">I'm Elizaphan Maina from Nairobi,Kenya.<br><br>- 🔭 I’m working as Web and GIS developer<br>- 📚 I'm currently learning Node.js<br>- ⚡ In my free time I tutor</h3>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
