@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">I'm Elizaphan Maina from Nairobi,Kenya.<br><br>- 🔭 I’m working as Web and Geospatial developer<br>- 📚 I'm currently learning Node.js<br>- ⚡ In my free time I tutor</h3>
+<h3 align="left">I'm Elizaphan Maina from Nairobi,Kenya.<br><br>- 🔭 I’m working as Web and Geospatial developer<br>- 📚 I'm currently learning OpenLayers<br>- </h3>
 
 ###
 
